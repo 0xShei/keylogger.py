@@ -6,7 +6,7 @@ A Python Keylogger
 Clone this repository -->```git clone https://github.com/fullMoonShade/keylogger.py```
 
 
-Change to clone directory --> ```cd /installation/folder/```
+Switch to cloned directory --> ```cd /installation/folder/```
 
 
 Install all libraries -> ```pip install -r requirements.txt```
