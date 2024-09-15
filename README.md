@@ -18,7 +18,7 @@ Enter your mailtrap credentials in the script -->
 
 ![image](https://github.com/user-attachments/assets/c2e0251a-e8b6-41d9-9abc-38a6f3923954)
 
-Edit keylogger report time interval if necessary --> 
+Edit email time interval if necessary --> 
 
 ![image](https://github.com/user-attachments/assets/3a85637d-8ae0-4850-bb4e-8132197e80d6)
 
