@@ -1,5 +1,5 @@
 # keylogger.py
-A Python Keylogger Using Mailtrap.io 
+A python keylogger using mailtrap.io
 
 **__INSTALLATION AND SETUP__**
 
